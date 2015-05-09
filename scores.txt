@@ -1,0 +1,32 @@
+10pt constructors / ~constructor
+5pt push_back
+5pt operator<<
+5pt operator==
+
+---25pts
+
+10pt resize / reserve / shrink_to_fit
+5pt operator[] + &operator[]
+
+---15pts
+
+5pt assign
+5pt insert
+5pt erase
+5pt swap
+
+---20pts
+
+Vector 共60分
+
+=========================
+以下可直接使用std::vector (上面分數另外計算)
+
+10pt constructors / ~constructor
+15pt operators (=, == !=, < >)
+10pt operators + -
+10pt operators *
+10pt operators /
+10pt operators %
+
+HugeUInteger 共65分
